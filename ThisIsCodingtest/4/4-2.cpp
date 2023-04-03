@@ -5,7 +5,6 @@ using namespace std;
 int main()
 {
 	string n;
-	string change = "12345678";
 	int x = 0;
 	int y = 0;
 	int cnt = 0;
